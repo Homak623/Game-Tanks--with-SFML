@@ -1,0 +1,91 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "topmappy.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "mappy.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.27065104166666665,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 960.6465890503224,
+                "y": 958.7991917636871
+            }
+        },
+        "mappy.tmx#tuk": {
+            "scaleInDock": 1
+        },
+        "mappy2.tmx": {
+            "scale": 0.06766276041666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3842.5863562012896,
+                "y": 2564.187433849707
+            }
+        },
+        "mappy2.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "topmappy.tmx": {
+            "scale": 0.101494140625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2561.7242374675257,
+                "y": 1443.4330799576637
+            }
+        },
+        "topmappy.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "topmappy2.tmx": {
+            "scale": 0.11599330357142856,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2241.5087077840853,
+                "y": 1280.2463196382182
+            }
+        },
+        "topmappy2.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "tu.tmx": {
+            "scale": 0.5413020833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.3232945251612,
+                "y": 318.67603194457814
+            }
+        },
+        "tu.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tu.tmx",
+        "mappy.tmx",
+        "topmappy2.tmx",
+        "topmappy.tmx",
+        "mappy2.tmx"
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "tu.tmx",
+        "mappy.tmx",
+        "topmappy2.tmx",
+        "mappy2.tmx",
+        "topmappy.tmx"
+    ],
+    "tileset.embedInMap": true
+}

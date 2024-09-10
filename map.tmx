@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="7">
+ <tileset firstgid="1" name="topic" tilewidth="32" tileheight="32" tilecount="160" columns="16">
+  <image source="../../../tilesheet_basic.png" width="512" height="320"/>
+ </tileset>
+ <tileset firstgid="161" name="murlik" tilewidth="32" tileheight="32" tilecount="160" columns="16">
+  <image source="../../../tilesheet_basic.png" width="512" height="320"/>
+ </tileset>
+ <objectgroup id="3" name="collision">
+  <object id="1" name="solid" x="736" y="482" width="92" height="94"/>
+  <object id="2" name="solid" x="898" y="415" width="92" height="94"/>
+ </objectgroup>
+ <layer id="6" name="Слой тайлов 1" width="40" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKHrH+jzrcdQcNVUVVVVVVUfPf3Kcb0=
+  </data>
+ </layer>
+</map>

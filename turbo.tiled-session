@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "map.tmx": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 592,
+                "y": 734
+            }
+        },
+        "map.tmx#murlik": {
+            "scaleInDock": 1
+        },
+        "map.tmx#topic": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/",
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "map.tmx"
+    ],
+    "project": "turbo.tiled-project",
+    "recentFiles": [
+        "map.tmx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true
+}

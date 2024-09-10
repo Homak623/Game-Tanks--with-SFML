@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "topmappy.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "mappy.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 960,
+                "y": 960.5
+            }
+        },
+        "mappy.tmx#tuk": {
+            "scaleInDock": 1
+        },
+        "mappy2.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1515.151515151515,
+                "y": 1531.8181818181818
+            }
+        },
+        "mappy2.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        },
+        "topmappy.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 992,
+                "y": 1678
+            }
+        },
+        "topmappy.tmx#tilesheet_basic": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "C:/",
+    "map.height": 90,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 160,
+    "openFiles": [
+        "topmappy.tmx",
+        "mappy2.tmx",
+        "mappy.tmx"
+    ],
+    "project": "mappy_bst.tiled-project",
+    "recentFiles": [
+        "mappy.tmx",
+        "mappy2.tmx",
+        "topmappy.tmx"
+    ],
+    "tileset.embedInMap": true
+}
